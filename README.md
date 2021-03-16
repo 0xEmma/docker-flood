@@ -1,6 +1,6 @@
 # docker-flood
 
-[![DroneCI](https://drone.obyn.io/api/badges/obynio/docker-flood/status.svg)](https://drone.obyn.io/obynio/docker-flood)
+[![DroneCI](https://drone.0xem.ma/0xEmma/docker-flood/status.svg)](https://drone.0xem.ma/0xEmma/docker-flood)
 
 > The perfect match between a highly customizable torrent client and an awesome web ui.
 
