@@ -74,3 +74,6 @@ protocol.pex.set = yes
 network.scgi.open_local = /data/rtorrent.sock
 schedule2 = scgi_permission,0,0,"execute.nothrow=chmod,\"g+w,o=\",/data/rtorrent.sock"
 network.xmlrpc.size_limit.set = 10000000
+
+#Set to daemon
+system.daemon.set = true
